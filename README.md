@@ -1,2 +1,4 @@
-# katacoda-scenarios
-katacoda-scenarios
+## Katacoda Scenario Examples
+
+View the examples at https://katacoda.com/scenario-examples
+
