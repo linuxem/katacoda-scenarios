@@ -1,10 +1,16 @@
-The Docker environment is structured within a Client/Server approach. This aim is to replicate Docker running on a remote server.
+The Docker
 
-As such, certain things that you might be different, such as mounting volumes as they would be mounted on the server, instead of the client.
+see youself what command you have.
+`docker`{{execute}}
 
-For example docker run -it -v /data:/data ubuntu "echo hello > /data/test"{{execute}} would not create a file in ls /data/{{execute}}.
+The Output is the option you have( oin the docker command)
 
-You can access the server via SSH, allowing you to see the data created from the container. For example ssh root@host01 "ls /data/"{{execute}}.
+for Example `docker ps`{{execute}}
 
-If you want to run Docker as a single node with the client/server being on the same instance, then we recommend you use the Katacoda Ubuntu environment.
+You can see the running dockers
 
+To run your first docker simply run
+`docker run -d nginx`{{execute}}
+This command you get nginx running
+
+For example `docker run -it -v /data:/data ubuntu "echo hello > /data/test"`{{execute}}
