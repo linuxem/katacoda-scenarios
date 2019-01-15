@@ -2,9 +2,8 @@
   "title": "Docker Basics",
   "description": "Learn Docker Basics",
   "details": {
-    "steps": [
-      {
-        "title": "Step 1 - Client/Server",
+    "steps": [{
+        "title": "Step 1 - The docker command",
         "text": "step1.md"
       },
       {
