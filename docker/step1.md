@@ -1,6 +1,6 @@
 The Docker
 
-see youself what command you have.
+see yourself what command you have.
 `docker`{{execute}}
 
 The Output is the option you have( oin the docker command)
@@ -11,6 +11,6 @@ You can see the running dockers
 
 To run your first docker simply run
 `docker run -d nginx`{{execute}}
-This command you get nginx running
+This command you get nginx proxy  running
 
-For example `docker run -it -v /data:/data ubuntu "echo hello > /data/test"`{{execute}}
+For example `docker run -it -v $PWD:/data ubuntu "echo hello > /data/test"`{{execute}}
