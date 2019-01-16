@@ -13,4 +13,6 @@ for Example `docker ps`{{execute}}
 
 You can see the running dockers
 
-For example `docker run -v $PWD:/var/www nginx`{{execute}}
+List the images with `docker images`{{execute}}
+
+You can see the docker on local repository
