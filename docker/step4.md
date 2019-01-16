@@ -1,3 +1,2 @@
-make new dir and `mkdir mydocker`{{execute}}
-create new file called Dockerfile `vi Dockerfile`{{execute}}
-and copy past this "    "
+
+For example `docker run -d -v $PWD:/var/www nginx`{{execute}}
