@@ -21,6 +21,12 @@
         "text": "step4.md"
       }
     ],
+    "assets": {
+      "host01": [
+          {"file": "index.html", "target": "myDocker/index.html"},
+          {"file": "deploy.sh", "target": "myDocker/Dockerfile"}
+      ]
+    }
     "finish": {
       "text": "finish.md"
     }
