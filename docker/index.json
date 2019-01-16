@@ -12,6 +12,12 @@
         "courseData": "background.sh",
         "text": "step2.md"
       },
+      "assets": {
+        "host01": [
+            {"file": "index.html", "target": "myDocker/index.html"},
+            {"file": "Dockerfile", "target": "myDocker/Dockerfile" }
+        ]
+      },
       {
         "title": "Step 3 - Pre-cached Images",
         "text": "step3.md"
