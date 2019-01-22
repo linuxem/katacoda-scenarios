@@ -27,7 +27,8 @@
           {"file": "Dockerfile", "target": "~/myDocker"},
           {"file": "Gif.gif", "target": "~/myDocker"},
           {"file": "logo.png", "target": "~/myDocker"}
-    ]
+        ]
+      }
     },
     "finish": {
       "text": "finish.md"
@@ -35,7 +36,7 @@
   },
   "environment": {
     "hideintro": true,
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "docker"
