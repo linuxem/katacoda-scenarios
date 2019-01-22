@@ -20,7 +20,7 @@
   },
   "environment": {
       "hideintro": true, "hidefinish": true,
-      "uilayout": "editor-terminal"
+      "uilayout": "terminal"
   },
   "backend": {
       "imageid": "ubuntu"
