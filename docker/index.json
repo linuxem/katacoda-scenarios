@@ -35,9 +35,9 @@
   },
   "environment": {
     "hideintro": true,
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "ubuntu"
   }
 }
