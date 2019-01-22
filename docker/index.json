@@ -25,7 +25,7 @@
       "host01": [
           {"file": "index.html", "target": "~/myDocker"},
           {"file": "Dockerfile", "target": "~/myDocker"}
-      ]
+    ]
     },
     "finish": {
       "text": "finish.md"
