@@ -1,1 +1,1 @@
-Well done you just finished this Docker class
+Well done you just finished this Docker Course
