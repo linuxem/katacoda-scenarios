@@ -23,8 +23,8 @@
     ],
     "assets": {
       "host01": [
-          {"file": "index.html", "target": "~/myDocker/index.html"},
-          {"file": "Dockerfile", "target": "~/myDocker/Dockerfile"}
+          {"file": "index.html", "target": "~/myDocker"},
+          {"file": "Dockerfile", "target": "~/myDocker"}
       ]
     },
     "finish": {
