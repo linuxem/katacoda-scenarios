@@ -24,7 +24,7 @@
     "assets": {
       "host01": [
           {"file": "index.html", "target": "myDocker/index.html"},
-          {"file": "deploy.sh", "target": "myDocker/Dockerfile"}
+          {"file": "Dockerfile", "target": "myDocker/Dockerfile"}
       ]
     },
     "finish": {
