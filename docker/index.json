@@ -1,43 +1,41 @@
 {
+  "noindex": true,
   "title": "Docker Basics",
   "description": "Learn Docker Basics",
   "details": {
-    "assets": {
-      "host01": [
-         {"file": "index.html", "target": "~/myDocker"},
-         {"file": "Dockerfile", "target": "~/myDocker"},
-         {"file": "Gif.gif", "target": "~/myDocker"},
-         {"file": "logo.png", "target": "~/myDocker"}
-       ]
-   },
-    "steps": [{
-      "title": "Step 1 - The docker command",
-      "text": "step1.md"
-    },
-    {
-      "title": "Step 2 - ",
-      "code": "foreground.sh",
-      "courseData": "background.sh",
-      "text": "step2.md"
-    },
-    {
-      "title": "Step 3 - Pre-cached Images",
-      "text": "step3.md"
-    },
-    {
-      "title": "Step 4 - Pre-cached Images",
-      "text": "step4.md"
-    }
-    ],
-    "finish": {
-      "text": "finish.md"
-    }
+      "steps": [{
+        "title": "Step 1 - The docker command",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - ",
+        "code": "foreground.sh",
+        "courseData": "background.sh",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - Pre-cached Images",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4 - Pre-cached Images",
+        "text": "step4.md"
+      }
+      ],
+      "assets": {
+          "host01": [
+              {"file": "index.html", "target": "~/myDocker"},
+              {"file": "Dockerfile", "target": "~/myDocker"},
+              {"file": "Gif.gif", "target": "~/myDocker"},
+              {"file": "logo.png", "target": "~/myDocker"}
+          ]
+      }
   },
   "environment": {
-    "hideintro": true,
-    "uilayout": "editor-terminal"
+      "hideintro": true, "hidefinish": true,
+      "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu"
+      "imageid": "ubuntu"
   }
 }
