@@ -33,6 +33,10 @@
   },
   "environment": {
     "hideintro": true,
+    "uilayout": "editor-terminal"
+  },
+  "environment": {
+    "hideintro": true,
     "uilayout": "terminal"
   },
   "backend": {
