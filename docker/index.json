@@ -3,24 +3,13 @@
   "title": "Docker Basics",
   "description": "Learn Docker Basics",
   "details": {
-      "steps": [{
-      "title": "Step 1 - The docker command",
-      "text": "step1.md"
-    },
-    {
-      "title": "Step 2 - ",
-      "code": "foreground.sh",
-      "courseData": "background.sh",
-      "text": "step2.md"
-    },
-    {
-      "title": "Step 3 - Pre-cached Images",
-      "text": "step3.md"
-    },
-    {
-      "title": "Step 4 - Pre-cached Images",
-      "text": "step4.md"
-    }
+    "steps": [
+      {
+          "title": "Step 1",
+          "text": "step1.md",
+          "courseData": "background.sh",
+          "code": "foreground.sh"
+      }
     ],
       "assets": {
           "host01": [
