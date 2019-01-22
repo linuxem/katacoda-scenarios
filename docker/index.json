@@ -1,20 +1,33 @@
 {
   "noindex": true,
   "title": "Docker Basics",
-  "description": "Automatically upload file assets to the environment",
+  "description": "Learn Docker Basics",
   "details": {
-      "steps": [
-          {
-              "title": "Step 1",
-              "text": "step1.md",
-              "courseData": "background.sh",
-              "code": "foreground.sh"
-          }
-      ],
+      "steps": [{
+      "title": "Step 1 - The docker command",
+      "text": "step1.md"
+    },
+    {
+      "title": "Step 2 - ",
+      "code": "foreground.sh",
+      "courseData": "background.sh",
+      "text": "step2.md"
+    },
+    {
+      "title": "Step 3 - Pre-cached Images",
+      "text": "step3.md"
+    },
+    {
+      "title": "Step 4 - Pre-cached Images",
+      "text": "step4.md"
+    }
+    ],
       "assets": {
           "host01": [
               {"file": "Dockerfile", "target": "~/myDocker"},
-              {"file": "index.html", "target": "~/myDocker"}
+              {"file": "index.html", "target": "~/myDocker"},
+              {"file": "logo.png", "target": "~/myDocker"},
+              {"file": "Gif.gif", "target": "~/myDocker"}
           ]
       }
   },
