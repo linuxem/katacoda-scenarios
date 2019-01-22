@@ -24,7 +24,9 @@
     "assets": {
       "host01": [
           {"file": "index.html", "target": "~/myDocker"},
-          {"file": "Dockerfile", "target": "~/myDocker"}
+          {"file": "Dockerfile", "target": "~/myDocker"},
+          {"file": "Gif.gif", "target": "~/myDocker"},
+          {"file": "logo.png", "target": "~/myDocker"}
     ]
     },
     "finish": {
