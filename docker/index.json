@@ -3,20 +3,20 @@
   "title": "Docker Basics",
   "description": "Learn Docker Basics",
   "details": {
-    "steps": [
-      {
-          "title": "Step 1",
-          "text": "step1.md",
-          "courseData": "background.sh",
-          "code": "foreground.sh"
-      }
-    ],
+      "steps": [
+          {
+              "title": "Step 1",
+              "text": "step1.md",
+              "courseData": "background.sh",
+              "code": "foreground.sh"
+          }
+      ],
       "assets": {
           "host01": [
               {"file": "Dockerfile", "target": "~/myDocker"},
-              {"file": "index.html", "target": "~/myDocker"},
+              {"file": "Gif.gif", "target": "~/myDocker"},
               {"file": "logo.png", "target": "~/myDocker"},
-              {"file": "Gif.gif", "target": "~/myDocker"}
+              {"file": "index.html", "target": "~/myDocker"}
           ]
       }
   },
