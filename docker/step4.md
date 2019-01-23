@@ -1,5 +1,5 @@
 
-For example `docker run -d -v $PWD:/var/www nginx`{{execute}}
+For example `docker run -d -v $PWD:/usr/share/nginx/html:ro nginx`{{execute}}
 
 Test The Link
 
