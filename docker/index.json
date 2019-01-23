@@ -25,8 +25,8 @@
       ],
       "assets": {
           "host01": [
-              {"file": "Dockerfile", "target": "~/myDocker"},
-              {"file": "index.html", "target": "~/myDocker"}
+              {"file": "Dockerfile", "target": "~/myDocker", "chmod": "+r"},
+              {"file": "index.html", "target": "~/myDocker", "chmod": "+r"}
           ]
       }
   },
