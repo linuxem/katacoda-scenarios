@@ -19,11 +19,11 @@
             "text": "step3.md"
           },
           {
-            "title": "Step 4 - volume local directory",
+            "title": "Step 4 - Build your own docker",
             "text": "step4.md"
           },
           {
-            "title": "Step 5 - Build your own docker",
+            "title": "Step 5 - See more dockers from public hub.docker.com ",
             "text": "step5.md"
           }
       ],
