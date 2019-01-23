@@ -1,7 +1,7 @@
 {
   "noindex": true,
   "title": "Docker Basics",
-  data-katacoda-layout="editor-terminal-split",
+  "data-katacoda-layout"="editor-terminal-split",
   "description": "Learn Docker Basics",
   "details": {
       "steps": [
