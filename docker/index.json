@@ -27,6 +27,15 @@
             "text": "step5.md"
           }
       ],
+      "intro", {
+        "text": "intro.md",
+        "courseData": "courseBase.sh",
+        "credits": "Eli"
+        "code": "changecd.sh"
+      },
+      "finish": {
+        "text": "finish.md"
+      },  
       "assets": {
           "host01": [
               {"file": "Dockerfile", "target": "~/myDocker", "chmod": "+r"},
