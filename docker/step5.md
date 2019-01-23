@@ -6,7 +6,7 @@ This step you will build you own docker
 
 Run you new docker 
 
-`docker run -p 81:80 nginx:elbit`{{execute}}
+`docker run -d -p 81:80 nginx:elbit`{{execute}}
 
 Test your docker 
 
