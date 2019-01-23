@@ -6,5 +6,3 @@ Hi all this course it for learning basics command in docker envierment
 I sujest you to dig and learn more 
 
 Enjoy
-
-Eli 
