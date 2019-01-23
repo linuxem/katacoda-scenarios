@@ -1,5 +1,6 @@
+## Start nginx Server
+`docker run -p 80:80 -d nginx`{{execute}}
 
+## Test Web Link
 
-make new dir and `cd myDocker`{{execute}}
-create new file called Dockerfile `cat Dockerfile`{{execute}}
-and copy past this "    "
+https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com

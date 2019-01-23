@@ -1,16 +1,13 @@
 
-For example `docker run -d -p 80:80 -v $PWD:/usr/share/nginx/html nginx`{{execute}}
+## This step you will build you own docker 
 
-Test The Link
+`docker build -t nginx:elbit .`{{execute}}
 
-https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com
+## Run you new docker 
 
-You can try more docker images to run from 
-https://hub.docker.com/search?q=&type=image
-For example running jenkins
-`docker run -d -u root --name jenkins -p 8080:8080 -p 50000:50000 jenkins/jenkins:2.112-alpine`{{execute}}
+`docker run -d -p 81:80 nginx:elbit`{{execute}}
 
+## Test your docker 
 
-
-
+https://[[HOST_SUBDOMAIN]]-81-[[KATACODA_HOST]].environments.katacoda.com
 

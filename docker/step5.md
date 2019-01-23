@@ -1,13 +1,7 @@
 
-This step you will build you own docker 
-`cd myDocker`{{execute}}
+## You can try more docker images to run from
 
-`docker build -t nginx:elbit .`{{execute}}
+https://hub.docker.com/search?q=&type=image
 
-Run you new docker 
-
-`docker run -d -p 81:80 nginx:elbit`{{execute}}
-
-Test your docker 
-
-https://[[HOST_SUBDOMAIN]]-81-[[KATACODA_HOST]].environments.katacoda.com
+## For example running jenkins
+`docker run -d -u root --name jenkins -p 8080:8080 -p 50000:50000 jenkins/jenkins:2.112-alpine`{{execute}}
