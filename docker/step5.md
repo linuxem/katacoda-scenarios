@@ -1,5 +1,6 @@
 
 This step you will build you own docker 
+`cd myDocker'{{execute}}
 
 `docker build -t nginx:elbit .`{{execute}}
 
