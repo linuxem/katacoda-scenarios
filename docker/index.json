@@ -29,7 +29,7 @@
       ],
       "intro": {
         "text": "intro.md",
-        "credits": "Eli Maor",
+        "credits": "",
       },
       "finish": {
         "text": "finish.md"
