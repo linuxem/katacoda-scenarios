@@ -5,10 +5,22 @@
   "details": {
       "steps": [
           {
-              "title": "Step 1",
+              "title": "Step 1 - The docker command",
               "text": "step1.md",
               "courseData": "background.sh",
               "code": "foreground.sh"
+          },
+          {
+            "title": "Step 2 - ",
+            "text": "step2.md"
+          },
+          {
+            "title": "Step 3 - Pre-cached Images",
+            "text": "step3.md"
+          },
+          {
+            "title": "Step 4 - Pre-cached Images",
+            "text": "step4.md"
           }
       ],
       "assets": {
