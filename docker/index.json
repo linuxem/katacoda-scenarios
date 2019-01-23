@@ -15,12 +15,16 @@
             "text": "step2.md"
           },
           {
-            "title": "Step 3 - Pre-cached Images",
+            "title": "Step 3 - Start and test nginx docker",
             "text": "step3.md"
           },
           {
-            "title": "Step 4 - Pre-cached Images",
+            "title": "Step 4 - volume local directory",
             "text": "step4.md"
+          },
+          {
+            "title": "Step 5 - Build your own docker",
+            "text": "step5.md"
           }
       ],
       "assets": {
