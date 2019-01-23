@@ -1,7 +1,6 @@
 {
   "noindex": true,
   "title": "Docker Basics",
-  "data-katacoda-layout"="editor-terminal-split",
   "description": "Learn Docker Basics",
   "details": {
       "steps": [
@@ -32,7 +31,7 @@
       }
   },
   "environment": {
-      "uilayout": "editor-terminal-split"
+      "uilayout": "editor-terminal"
   },
   "backend": {
       "imageid": "ubuntu"
