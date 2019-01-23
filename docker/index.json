@@ -27,7 +27,7 @@
             "text": "step5.md"
           }
       ],
-      "intro", {
+      "intro": {
         "text": "intro.md",
         "courseData": "courseBase.sh",
         "credits": "Eli"
