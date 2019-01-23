@@ -9,6 +9,7 @@ To run your first docker simply run
 `docker run -d nginx`{{execute}}
 
 This command you get nginx proxy  running
+
 You can see the running dockers
 for Example `docker ps`{{execute}}
 
