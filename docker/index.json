@@ -27,13 +27,6 @@
             "text": "step5.md"
           }
       ],
-      "intro": {
-        "text": "intro.md",
-        "credits": "",
-      },
-      "finish": {
-        "text": "finish.md"
-      },
       "assets": {
           "host01": [
               {"file": "Dockerfile", "target": "~/myDocker", "chmod": "+r"},
