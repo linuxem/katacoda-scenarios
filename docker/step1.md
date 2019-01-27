@@ -1,20 +1,20 @@
 ### The Docker
 
-## see yourself what command do you have. and what options
+## See for yourself what commands you have and what options are available.
+
 `docker`{{execute}}
 
-## The Output is the options you have( on the docker command)
+## The output is the options you have for the docker command.
 
 ## To run your first docker simply run
 `docker run -d nginx`{{execute}}
 
-## This command you get nginx proxy  running (web server)
+## You can see the running dockers by running
 
-## You can see the running dockers
-## for Example
 `docker ps`{{execute}}
 
-## List the images with this commnad option
+## You can get the list of images by running
+
 `docker images`{{execute}}
 
-## You can see the docker on local repository
+## This shows you the images on your local repository ( cache )

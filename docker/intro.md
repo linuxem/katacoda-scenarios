@@ -1,8 +1,9 @@
-In this scenario,
-You will learn how to work and build your own Docker.
+In this session you will learn how to build and run your own Docker.
 
-Hi all this course it for learning basics command in docker envierment 
+Hi all,
 
-I sujest you to dig more and learn about it.
+This course is about learning basic commands in a docker environment. 
+
+I suggest you dig more and learn about it.
 
 Enjoy
