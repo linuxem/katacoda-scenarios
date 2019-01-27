@@ -1,4 +1,4 @@
-## Go to directory
+## Go to directory:
 `cd myDocker`{{execute}}
-## view the Dockerfile
+## View the Dockerfile:
 `cat Dockerfile`{{execute}}
